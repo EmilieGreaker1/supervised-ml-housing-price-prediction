@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Notebooks as binary to avoid messy diffs
+*.ipynb binary
