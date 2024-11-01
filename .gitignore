@@ -1,6 +1,9 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Files stored in the datasets folder (project specific)
+datasets/
+
 # Python cache and compiled files
 __pycache__/
 *.py[cod]
